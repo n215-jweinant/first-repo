@@ -1,5 +1,7 @@
 ## First Repo
 
+This is a first repo for my N215 homework 4
+
 ## Purpose 
 
 This homework assignment will:
